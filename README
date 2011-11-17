@@ -1,0 +1,4 @@
+Build with 'javac -d obj src/luhny/Main.java'
+Run with 'java -Xmx8m -Xms8m -cp obj luhny.Main'
+
+
